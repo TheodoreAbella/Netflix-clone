@@ -1,6 +1,6 @@
 # Netflix-clone
 
-Link : https://netflix-sideproject-theo.netlify.app/
+
 
 ![Screenshot (726)](https://github.com/TheodoreAbella/Netflix-clone/assets/75819073/3a9fbdb9-276c-4b85-960a-a07563c50cf5)
 ![Screenshot (729)](https://github.com/TheodoreAbella/Netflix-clone/assets/75819073/da2816dc-c728-495e-988b-0c583f6ea5a9)
