@@ -1,4 +1,4 @@
-# Netflix-clone
+# Netflix UI Mockup
 
 
 
@@ -7,3 +7,4 @@
 ![Screenshot (730)](https://github.com/TheodoreAbella/Netflix-clone/assets/75819073/57bac9ab-3eb3-4830-b52c-8cd8cbe26239)
 ![Screenshot (733)](https://github.com/TheodoreAbella/Netflix-clone/assets/75819073/1636b275-0b5d-4427-a02b-c29a15faa49d)
 ![Screenshot (734)](https://github.com/TheodoreAbella/Netflix-clone/assets/75819073/f402a12e-277a-467c-aa99-594446d9ae53)
+
